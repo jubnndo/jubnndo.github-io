@@ -1,4 +1,4 @@
-# Welcome to jubnndo.github.io
+### Welcome to jubnndo.github.io
 ---
 My **Favorite** *Stuff*
 
@@ -9,3 +9,20 @@ My **Favorite** *Stuff*
 2. haha idk kkshi 
 
 3. lmaolmaolmaopoor cale 
+
+[`githb`](https://github.com/)
+
+---- 
+
+```
+kaksahi
+diluc
+cagecagecagecagecagecagecagecagecagecagecage
+robin-san      :)
+
+```
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WWSfVM14yc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
