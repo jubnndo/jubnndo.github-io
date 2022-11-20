@@ -17,7 +17,33 @@
 
 **Next, let's take a look at the options available to us:**
 
-[GP9-LP5-L17](https://drive.google.com/file/d/1JCitF0rBiA9gu9GLyEHd-om0X935DnCc/preview)
+- **[Options for creating Websites](https://drive.google.com/file/d/1JCitF0rBiA9gu9GLyEHd-om0X935DnCc/preview)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1wjBjYzkOiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/1wjBjYzkOiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+#### Types of Websites
+
+Static VS Dynamic Web sites
+
+Static websites are ones that **are fixed and display the same content for every user**, usually written exclusively in HTML. A dynamic website, on the other hand, is one that can display different content and provide user interaction, by making use of advanced programming and databases in addition to HTML.
+
+[List of Static Site Generators](https://jamstack.org/generators/)
+
+---
+
+#### Creating a Website in Github Pages
+
+GitHub is a **code hosting platform for version control and collaboration**. It lets you and others work together on projects from anywhere. 
+
+GitHub Pages is **a static site hosting service that takes HTML, CSS, and JavaScript files** straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. ... You can host your site on GitHub's github.io domain or your own custom domain.
+
+The purpose of GitHub Pages is to provide the GitHub user a way to create personal websites for themselves and websites for their projects/repositories. For each registered GitHub account (representing a user or an organization) you can register one User Page, but an unlimited Project page.
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  
+  
+  
