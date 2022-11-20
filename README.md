@@ -17,9 +17,11 @@
 
 **Next, let's take a look at the options available to us:**
 
-- **[Options for creating Websites](https://drive.google.com/file/d/1JCitF0rBiA9gu9GLyEHd-om0X935DnCc/preview)**
-
-- <iframe width="560" height="315" src="https://www.youtube.com/embed/1wjBjYzkOiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/1wjBjYzkOiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  
+ **[Options for creating Websites](https://drive.google.com/file/d/1JCitF0rBiA9gu9GLyEHd-om0X935DnCc/preview)**
 
 ---
 
@@ -45,5 +47,13 @@ The purpose of GitHub Pages is to provide the GitHub user a way to create person
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   
-  
+ [Launch a Website for Free in 5 simple steps with Github Pages](https://towardsdatascience.com/launch-a-website-for-free-in-5-simple-steps-with-github-pages-e9680bcd94aa)
+ 
+ [Sir Gain's Website](https://641n.github.io/computer-9/)
+ 
+ [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+ 
+ ---
+ 
+ 
   
