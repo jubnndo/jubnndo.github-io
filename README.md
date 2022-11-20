@@ -1,28 +1,23 @@
-### Welcome to jubnndo.github.io
----
-My **Favorite** *Stuff*
+## T2.L1 Why Create A Website 
+<h4>Objectives:</h4> At the end of this lesson, 
 
----
+1. understand the practical reasons for creating website;
+2. evaluate the different options for creating websites.
 
-1. egg kekw ![egg](https://user-images.githubusercontent.com/118245640/202086193-c7ae7f59-5a01-4d0e-a4be-f4e745a72c95.png)
+#### Reason for students to create a website
 
-2. haha idk kkshi 
+- If you want to be a serious influencer/content creator then you **must have a website**. As your fan base grows, many people will be tempted to run a quick Google search for your name. Having a website establishes your authority on your niche.
+- **Think of it as your career ‘game face’**. Starting a website gives you a chance to tell your story in your own way.
+- **It’s the ultimate CV**. You can use it to actively demonstrate you have the skills you say you do.
+- **You can make money**. Affiliate marketing, advertising, sponsorship, membership content, sell products or services are just some ways to turn your web work into a whole career.
+- **The freedom to do what you love**. Are you passionate about something? Shout it out on a Web site.
+- **A sense of professionalism**. A website demonstrates that you believe in what you’re doing and are prepared to put in the time and effort.
+- **Hands-on experience**. A website is a real-world application, a valuable transfer of skills of what you have learned.
+- **It’s easy**. Advances in technology allow anyone to create websites easily.
 
-3. lmaolmaolmaopoor cale 
+**Next, let's take a look at the options available to us:**
 
-[`githb`](https://github.com/)
+[GP9-LP5-L17](https://drive.google.com/file/d/1JCitF0rBiA9gu9GLyEHd-om0X935DnCc/preview)
 
----- 
-
-```
-kaksahi
-diluc
-cagecagecagecagecagecagecagecagecagecagecage
-robin-san      :)
-
-```
-
-----
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WWSfVM14yc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1wjBjYzkOiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
