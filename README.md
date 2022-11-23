@@ -69,8 +69,3 @@ The purpose of GitHub Pages is to provide the GitHub user a way to create person
 ### **SUMMARY**
  
 Static site generators are perhaps best suited to sites containing no more than a few hundred pages with a couple of new posts every week. Automated build and deploy processes will be required, and you may reach a point where a CMS becomes a more practical option. Content Management Systems and Site Builders are alternative technologies you can use to create and host websites. CMS and Site Builders are much easier to use than static site generators. They also are much more dynamic and powerful than static sites. The difference between a CMS and a Site Builder is that CMS needs to be installed in a server while Site Builders need not be.
-
-<center>
- <img src="(https://user-images.githubusercontent.com/118245640/203475499-df4c54ca-2926-4e73-8cc0-a8ad3e5333f8.png)">
- </center>
-
